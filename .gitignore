@@ -70,3 +70,4 @@ typings/
 
 # Mac stuff
 .DS_Store
+*.cannedSearch
